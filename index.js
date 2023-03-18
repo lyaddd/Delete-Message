@@ -1,7 +1,9 @@
 const discord_ws = require('ws');
 const msg = require('./src/discord_api/delete.js');
-authentification = 'ODU4NDYzMTg5MjY3NjQ0NDI2.G1d0A5.6CXfdRJVPfKRZMEoGR2FFy5MMicTFr4vqEuNvE'
-let prefix = '.'
+authentification = 'Token ici'
+let prefix = 'Ton prefix'
+
+// Commande = prefix + d
 
 let session_id_value;
 let iii;
